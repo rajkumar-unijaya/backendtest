@@ -1,0 +1,4 @@
+action,email,name,password
+Create,raj@my.com,raj,123
+Update,raj1@my.com,,123
+Delete,raj1@my.com,,123
